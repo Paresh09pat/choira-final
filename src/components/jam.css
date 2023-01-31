@@ -1,0 +1,271 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+}
+
+.jam{
+    background-color: black;
+    padding:10px;
+    padding-bottom: 50px;
+}
+
+.jamming-outer{
+    width: 75%;
+    margin: auto;
+    margin-top:2%;
+    border: 1px solid #222831;
+    background-color: #222831;
+}
+select{
+    padding: 10px;
+    border: 0.2px solid #9EA1D4;
+    background-color: #404258;
+    text-align: center;
+    border-radius: 5px;
+}
+
+span{
+    margin-left: 10px;
+}
+
+h1{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2{
+    color: white;
+}
+
+.navBut{
+    color:#F99417;
+    border: 0.2px solid #9EA1D4;
+    background-color: #404258;
+    padding: 10px;
+    border-radius: 5px;
+    width: 100px;
+}
+
+.innerNav{
+    margin-right:5%;
+    margin-top:2%;
+}
+
+.dropdwon{
+    margin-right:10px;   
+}
+
+.inner-Part{
+    border: 2px solid black;
+    width:85%;
+    height:570px;
+    margin: auto;
+    margin-bottom:10%;
+    display: flex;
+    flex-wrap: wrap;
+    background-color:rgb(225, 70, 35);
+    border-radius: 20px;
+}
+
+.imag1{
+    width:420px;
+    height:250px;
+    margin-left:20px;
+    margin-top:20px;
+    border-radius: 20px;
+}
+
+.image2{
+    width:420px;
+    height:250px;
+    margin-left:20px;
+    margin-top:20px;
+    border-radius: 20px;
+}
+
+.imag3{
+    width:420px;
+    height:250px;
+    margin-left:20px;
+    border-radius: 20px;
+    margin-top: -25px;
+}
+
+.imag4{
+    width:420px;
+    height:250px;
+    margin-left:20px;
+    border-radius: 20px;
+    margin-top: -25px;
+}
+
+.endJam{
+    background-color: #D61355;
+    color: white;
+    border: none;
+    width: 100px;
+    height: 40px;
+    margin-left:40%;
+    margin-bottom:40px;
+    font-size:16px;
+    border-radius: 10px;
+    cursor: pointer; 
+}
+
+.videoJam{
+    margin-left:1%;
+    border-radius:0px;
+    position: absolute;
+}
+
+.jam1{
+    width:420px;
+    height:500px;
+    margin-left:20px;
+    margin-top:20px;
+    border-radius: 20px;
+}
+
+.jam2{
+    width:420px;
+    height:500px;
+    margin-left:20px;
+    margin-top:20px;
+    border-radius: 20px;
+}
+
+.jamNew{
+    width:420px;
+    height:520px;
+    margin-left:20px;
+    margin-top:20px;
+    border-radius: 20px;
+}
+
+.jamN4{
+    width:420px;
+    height:250px;
+    margin-left:20px;
+    border-radius: 20px;
+    margin-top: -100%;
+    margin-bottom: 20px;
+}
+
+.jamming-outer1{
+    width: 75%;
+    margin: auto;
+    margin-top:-4.5%;
+    border: 1px solid #222831;
+    background-color: #222831;
+    border-radius: 10px;
+}
+
+.lastDiv{
+    background-color: black;
+    margin: auto;
+}
+
+.inner-Part1{
+    border: 2px solid #222831;
+    width:73.8%;
+    height:570px;
+    margin: auto;
+    margin-bottom:5%;
+    margin-top: -3.5%;
+    display: flex;
+    flex-wrap: wrap;
+    background-color:#222831;
+}
+
+.imag11{
+    width:480px;
+    height:250px;
+    margin-left:30px;
+    margin-top:20px;
+    border-radius: 20px;
+}
+
+
+.image21{
+    width:500px;
+    height:250px;
+    margin-left:20px;
+    margin-top:20px;
+    border-radius: 20px;
+}
+
+.imag31{
+    width:480px;
+    height:250px;
+    margin-left:30px;
+    border-radius: 20px;
+    margin-top: -25px;
+}
+
+.imag41{
+    width:500px;
+    height:250px;
+    margin-left:20px;
+    border-radius: 20px;
+    margin-top: -25px;
+}
+.foot{
+    background-color: #222831;
+    width: 74%;
+    margin: auto;
+    margin-top: -5%;
+    display: flex;
+}
+
+.foot1{
+    background-color: #222831;
+    width: 74%;
+    margin: auto;
+    margin-top: -3%;
+    display: flex;
+}
+
+.footHed{
+    width: 300px;
+    height:50px;
+    margin-left: 15%;
+    border: 1px solid #404258;
+    border-radius: 5px;
+}
+
+.speaker{
+    color: white;
+    font-size: 30px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.video{
+    color: white;
+    font-size: 30px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.endJam1{
+    background-color: #D61355;
+    color: white;
+    border: none;
+    width: 100px;
+    height: 40px;
+    margin-left:30%;
+    margin-bottom:40px;
+    font-size:16px;
+    border-radius: 10px;
+    cursor: pointer; 
+}
+
+.mic{
+    color: white;
+    font-size: 30px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+
+
