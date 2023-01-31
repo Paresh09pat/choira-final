@@ -44,10 +44,10 @@ const Jam = () => {
         (
         <div className='lastDiv'>
             <div className='inner-Part1'>
-                <div><img src="https://img.freepik.com/free-photo/cute-young-woman-playing-guitar-indoors_23-2149140612.jpg?w=2000" alt="" className='imag11'/></div>
-                <div><img src="https://assets.cntraveller.in/photos/626aa5af3c1dc6cdeba390f1/master/w_1600%2Cc_limit/Entre%2520nos%2520live%2520at%2520the%2520Heritage%2520Home%2520Concert.jpg" alt="" className='image21' /></div>
-                <div><img src="https://img.freepik.com/free-photo/elearning-cute-young-beautiful-girl-remotely-home-taking-violin-classes_140725-167346.jpg?w=2000" alt="" className='imag31' /></div>
-               <div><img src="https://media.istockphoto.com/id/1149030677/photo/student-playing-drums-while-listening-music-at-class.jpg?s=612x612&w=0&k=20&c=JV-7fK4m4UidZzd25MlIbjK1qNJ3URobTrDI9EOnxHQ=" alt="" className='imag41' /></div>
+                <div><img src="https://thumbs.dreamstime.com/b/group-diverse-young-students-standing-together-classroom-156212396.jpg" alt="" className='imag11'/></div>
+                <div><img src="https://img.freepik.com/free-photo/sports-tools_53876-138077.jpg?w=2000" alt="" className='image21' /></div>
+                <div><img src="https://i.natgeofe.com/n/959eb04a-010b-48d7-8a51-1711d781d6d1/diwali-lanterns-rts2t3o5_3x2.jpg" alt="" className='imag31' /></div>
+               <div><img src="https://img.traveltriangle.com/blog/wp-content/uploads/2021/11/festivals-of-india1.jpg" alt="" className='imag41' /></div>
             </div>
             <div className='foot'>
                 <div><img src={imagSnip} alt="" className='footHed' /></div>
